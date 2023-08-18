@@ -1,1 +1,0 @@
-# House-Price-Prediction-in-Bangalore-Regression-Technique
